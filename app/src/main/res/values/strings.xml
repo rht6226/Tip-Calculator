@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="bill_name">Billing Details: </string>
+    <string name="currency_dollars">$ </string>
+    <string name="currency_rupees">₹ </string>
+    <string name="currency_euros">€ </string>
+    <string name="hint_text">Enter the amount: </string>
+    <string name="tip_title">Tip % : </string>
+    <string name="todo">TODO</string>
+    <string name="currency_yen">¥</string>
+    <string name="btn_text">Calculate Tip</string>
+    <string name="bold">bold</string>
+</resources>
